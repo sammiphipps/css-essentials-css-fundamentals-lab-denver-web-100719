@@ -9,18 +9,18 @@ nav a {
   background-color: lightgray; 
 }
 figcaption {
-			font-size: small; 
-		}
-		#featured-property p {
-			width: 800px;
-			margin-left: auto;
-			margin-right: auto;
-		}
-		#details{
-			display: block; 
-		}
-		#details div{
-			float: left;
-			width: 25%; 
-			background-color: red; 
-		}
+  font-size: small; 
+}
+#featured-property p {
+  width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#details{
+  display: block; 
+}
+#details div{
+  float: left;
+  width: 25%; 
+  background-color: red; 
+}
